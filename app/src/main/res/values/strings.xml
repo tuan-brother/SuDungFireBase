@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SuDungFireBase</string>
+    <string name="tai_khoan_mail">Tai Khoan Mail</string>
+    <string name="mat_khau">Mat khau</string>
+    <string name="login">LogIn</string>
+</resources>
